@@ -1,0 +1,10 @@
+﻿{
+  "name": "EarlySpawnBoost",
+  "version_number": "1.0.5",
+  "website_url": "",
+  "description": "Boosts spawn rate for stages 1 & 2. Configurable.",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2111",
+    "RiskofThunder-HookGenPatcher-1.2.3"
+  ]
+}

@@ -4,6 +4,10 @@ Boosts the director credits for stages 1 and 2 by 15% (configurable). Doesn't af
 
 ## Changelog
 
+**1.1.1**
+
+- Updated for SOTS
+
 **1.1.0**
 
 - Changes how spawn rate is boosted, boost should be more noticable now

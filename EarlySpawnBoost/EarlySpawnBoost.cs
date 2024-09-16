@@ -6,7 +6,7 @@ using RoR2;
 
 namespace EarlySpawnBoost
 {
-  [BepInPlugin("com.Nuxlar.EarlySpawnBoost", "EarlySpawnBoost", "1.1.0")]
+  [BepInPlugin("com.Nuxlar.EarlySpawnBoost", "EarlySpawnBoost", "1.1.1")]
 
   public class EarlySpawnBoost : BaseUnityPlugin
   {
